@@ -13,7 +13,7 @@ export default function Portfolio() {
         {
             id: 1,
             type: 'image',
-            url: '/assest/image/A_LEAD_C469_PS55_B47I0008.webp',
+            url: 'assest/image/A_LEAD_C469_PS55_B47I0008.webp',
             title: 'Advanced Fire Protection',
             category: 'Equipment',
             description: 'Industrial grade fire suppression systems installation.'
@@ -21,7 +21,7 @@ export default function Portfolio() {
         {
             id: 2,
             type: 'image',
-            url: '/assest/image/shutterstock_1817376860-scaled.jpg',
+            url: 'assest/image/shutterstock_1817376860-scaled.jpg',
             title: 'Safety Infrastructure',
             category: 'Installation',
             description: 'Complete building safety infrastructure deployment.'
@@ -29,7 +29,7 @@ export default function Portfolio() {
         {
             id: 3,
             type: 'image',
-            url: '/assest/image/unnamed (1).jpg',
+            url: 'assest/image/unnamed (1).jpg',
             title: 'Professional Service',
             category: 'Service',
             description: 'Expert safety inspection and maintenance.'
@@ -37,7 +37,7 @@ export default function Portfolio() {
         {
             id: 4,
             type: 'image',
-            url: '/assest/image/workwear-yeni.jpg',
+            url: 'assest/image/workwear-yeni.jpg',
             title: 'PPE Workforce',
             category: 'Equipment',
             description: 'High-performance personal protective equipment.'
@@ -46,7 +46,7 @@ export default function Portfolio() {
             id: 5,
             type: 'video',
             url: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
-            thumbnail: '/assest/image/unnamed.jpg',
+            thumbnail: 'assest/image/unnamed.jpg',
             title: 'Team Training',
             category: 'Training',
             description: 'On-site safety protocols and training workshop.'
@@ -54,7 +54,7 @@ export default function Portfolio() {
         {
             id: 6,
             type: 'image',
-            url: '/assest/image/Investing in high quality safety boots_header.webp',
+            url: 'assest/image/Investing in high quality safety boots_header.webp',
             title: 'Certified Footwear',
             category: 'Equipment',
             description: 'Specialized industrial safety boots.'

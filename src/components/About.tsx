@@ -74,7 +74,7 @@ export default function About() {
                 playsInline
                 className="w-full h-full object-cover grayscale-[0.5] group-hover:grayscale-0 transition-all duration-700 scale-110 group-hover:scale-100"
               >
-                <source src="/assest/video/14743014_1920_1080_30fps.mp4" type="video/mp4" />
+                <source src="assest/video/14743014_1920_1080_30fps.mp4" type="video/mp4" />
               </video>
               <div className="red-overlay opacity-80 group-hover:opacity-40 transition-opacity duration-700"></div>
               <div className="absolute inset-0 bg-gradient-to-br from-black/80 via-transparent to-black/80"></div>

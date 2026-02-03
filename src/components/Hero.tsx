@@ -15,7 +15,7 @@ export default function Hero() {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="/assest/video/5930437-uhd_3840_2160_30fps.mp4" type="video/mp4" />
+          <source src="assest/video/5930437-uhd_3840_2160_30fps.mp4" type="video/mp4" />
         </video>
         <div className="red-overlay opacity-75"></div>
         <div className="absolute inset-0 bg-black/40 backdrop-blur-[1px]"></div>

@@ -1,17 +1,17 @@
 import { useTranslation } from 'react-i18next';
 
 const partners = [
-  { id: 1, logo: '/assest/image/clients/client 05.png' },
-  { id: 2, logo: '/assest/image/clients/client 099.png' },
-  { id: 3, logo: '/assest/image/clients/dongfeng.png' },
-  { id: 4, logo: '/assest/image/clients/logo SODEPS.png' },
-  { id: 5, logo: '/assest/image/clients/logo diari.png' },
-  { id: 6, logo: '/assest/image/clients/logo eni.png' },
-  { id: 7, logo: '/assest/image/clients/logo l\'epi d\'or.png' },
-  { id: 8, logo: '/assest/image/clients/logo pergemine.png' },
-  { id: 9, logo: '/assest/image/clients/logo teletec.png' },
-  { id: 10, logo: '/assest/image/clients/logo total safety.png' },
-  { id: 11, logo: '/assest/image/clients/Untitled-1.png' },
+  { id: 1, logo: 'assest/image/clients/client 05.png' },
+  { id: 2, logo: 'assest/image/clients/client 099.png' },
+  { id: 3, logo: 'assest/image/clients/dongfeng.png' },
+  { id: 4, logo: 'assest/image/clients/logo SODEPS.png' },
+  { id: 5, logo: 'assest/image/clients/logo diari.png' },
+  { id: 6, logo: 'assest/image/clients/logo eni.png' },
+  { id: 7, logo: 'assest/image/clients/logo l\'epi d\'or.png' },
+  { id: 8, logo: 'assest/image/clients/logo pergemine.png' },
+  { id: 9, logo: 'assest/image/clients/logo teletec.png' },
+  { id: 10, logo: 'assest/image/clients/logo total safety.png' },
+  { id: 11, logo: 'assest/image/clients/Untitled-1.png' },
 ];
 
 export default function Testimonials() {
